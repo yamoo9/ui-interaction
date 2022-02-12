@@ -16,3 +16,13 @@ body {
   background: var(--color-black);
   color: var(--color-white);
 }
+
+.headline {
+  font-size: 4rem;
+  font-weight: 100;
+}
+
+abbr[title] {
+  cursor: help;
+  text-decoration: none;
+}
