@@ -6,3 +6,16 @@
 
 - [x] HTML, CSS
 - [ ] JavaScript (ECMAScript)
+
+## 학습한 Git 명령어
+
+```sh
+git init -b main
+git add <filename> ...
+git add .
+git rm -cached <filename>
+git commit -am "commit message"
+git status
+git log
+git push <remote_repo_alias> <branchname>
+```
