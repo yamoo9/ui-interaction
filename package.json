@@ -1,0 +1,11 @@
+{
+  "name": "learning-ui-interaction",
+  "version": "0.0.1",
+  "author": "yamoo9 <yamoo9@euid.dev>",
+  "scripts": {
+    "start": "live-server public --port=3000"
+  },
+  "devDependencies": {
+    "live-server": "1.2.1"
+  }
+}
