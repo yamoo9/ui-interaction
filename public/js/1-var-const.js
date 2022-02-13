@@ -6,6 +6,8 @@ let randomCount2 = calcRandomCount(10, 90);
 console.log('randomCount1:', randomCount1);
 console.log('randomCount2:', randomCount2);
 
+/* -------------------------------------------------------------------------- */
+
 // 변수(variable)
 // var → let으로 정의
 let bread = '오븐에 구운 도넛';
